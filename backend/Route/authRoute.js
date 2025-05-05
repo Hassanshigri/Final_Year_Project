@@ -10,7 +10,13 @@ AuthRouter.post("/get", async (req, res) => {
   });
 
   const { message, imageBase64, primaryColor, secondaryColor, fontFamily } = req.body;
-  console.log("Received message:", message);
+
+  console.log("Received Data:");
+  console.log("Message:", message);
+  console.log("Primary Color:", primaryColor);
+  console.log("Secondary Color:", secondaryColor);
+  console.log("Font Family:", fontFamily);
+  console.log("Image Provided:", imageBase64 ? "Yes" : "No");
 
   const messages = [
     {
