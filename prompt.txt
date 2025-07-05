@@ -1,0 +1,16 @@
+1. Prompt: Minimal responsive layout with clean structure
+Font: Inter
+Primary: #111827
+Secondary: #38BDF8
+
+2. Prompt: Bold layout with visual emphasis and large typography
+Font: Rubik
+Primary: #9333EA
+Secondary: #F43F5E
+
+
+
+3. Prompt: Modern business layout with hero and simple sections
+Font: Poppins
+Primary: #4F46E5
+Secondary: #F59E0B
