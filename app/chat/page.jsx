@@ -6,7 +6,7 @@ import ColorPaletteSelector from "@/components/Settings/ColorPaletteSelector";
 import FileUploader from "@/components/Settings/FileUploader";
 import ChatMessages, { Button } from "@/components/Chat/ChatMessages";
 import ChatInput from "@/components/Chat/ChatInput";
-import Sidebar from "@/components/Sidebar/Sidebar";
+import Sidebar from '@/components/Sidebar/Sidebar';
 import Link from "next/link";
 
 export default function Home() {
