@@ -169,7 +169,7 @@ const Home_4 = () => {
                     <p className="mb-8 text-lg leading-[1.42] last:mb-0 lg:text-[21px] text-white">
                       Harness the power of AI to supercharge your workflow,
                       translating your ideas into clean, efficient code
-                      effortlessly. Let us help you bridge the gap between
+                      effortlessly. Let us help you bridge the gaps between
                       design and development with unmatched precision and speed.
                     </p>
                     <Link
